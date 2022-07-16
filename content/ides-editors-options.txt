@@ -1,0 +1,14 @@
+Para Notebooks/PCs:
+
+- Visual Studio Code (amado VS Code)
+- PyCharm (IDE da JetBrains)
+- Atom (Editor do GitHub)
+- Python IDLE (Editor de fábrica do interpretador Python)
+- etc, etc, etc, (não faltam opções)
+
+Para Celulares e Dispositivos Móveis (mundo Android/iOS):
+
+- QPython
+- PyDroid
+- Termux (terminal Linux pro Android - eu uso o NeoVim, mas você pode usar o Vim e o nano)
+- (não há muitas opções no mundo mobile)

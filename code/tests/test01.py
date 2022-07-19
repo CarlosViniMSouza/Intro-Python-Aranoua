@@ -28,6 +28,12 @@ class TestResultOperations(unittest.TestCase):
     def testDivInt(self):
         self.assertTrue(divIntNums(4, 6) <= 2)
 
+    def testMod(self):
+        self.assertEqual(modNums(4, 8), 4)
+
+    def testQuad(self):
+        self.assertEqual(quadNum01(4), 16.0)
+
 
 if __name__ == '__main__':
     unittest.main()

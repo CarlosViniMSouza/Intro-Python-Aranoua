@@ -1,4 +1,4 @@
 git add .
-git commit -m "atv01test -> updated | + tests added: mod & quad"
+git commit -m "atv02 & atv03 -> added"
 git push
 git status

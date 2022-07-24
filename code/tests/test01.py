@@ -15,6 +15,8 @@ class TestStringMethods(unittest.TestCase):
 class TestResultOperations(unittest.TestCase):
     def testSum(self):
         self.assertEqual(sumNums(4, 6), 10)
+        self.assertTrue(sumNums(7, 9) ==  16)
+        self.assertFalse(sumNums(7, 9) > 16) 
 
     def testSub(self):
         self.assertEqual(subNums(4, 6), -2)

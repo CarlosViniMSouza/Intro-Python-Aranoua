@@ -24,22 +24,16 @@ for j in range(100, 0, -2):
 
 os.system('clear')
 
-"""
-# questao 03
-peixes = ["tambaqui", "tucunare", "bacalhau", "piranha", "bodo", "pirarucu"]
+# questão 03
 
-obj = input("Nome do peixe: ")
+peixes = ["tambaqui", "piranha", "bodo", "matrinxan"]
 
-for k in range(len(peixes)):
-    if peixes[k] == obj:
-        print("\nParabens, voce acertou!")
-        break
-    else:
-        obj = input("\nDigite outro nome: ")
+obj = input("Digite um peixe ai: ")
+obj.lower()
 
-# Por algum motivo, não funciona.
-# Resolvo isso depois!
-"""
+for i in peixes:
+    if obj == i:
+        print("peixe encontrado!")
 
 os.system('clear')
 

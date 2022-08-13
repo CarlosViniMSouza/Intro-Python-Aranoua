@@ -1,1 +1,1 @@
-unittest
+numpy==1.23.1

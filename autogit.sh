@@ -1,4 +1,4 @@
 git add .
-git commit -m "atv05.py -> done"
+git commit -m "atv06.py -> done"
 git push
 git status

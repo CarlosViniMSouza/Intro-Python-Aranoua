@@ -1,4 +1,4 @@
 git add .
-git commit -m "setup.py -> incompleted"
+git commit -m "requirements.txt -> updated"
 git push
 git status

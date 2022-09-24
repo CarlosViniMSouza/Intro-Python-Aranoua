@@ -1,4 +1,4 @@
 git add .
-git commit -m "setup.py -> alts add"
+git commit -m "atv09.py -> done"
 git push
 git status
